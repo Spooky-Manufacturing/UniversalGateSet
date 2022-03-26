@@ -15,7 +15,7 @@ A universal gate set is a set of logic gates that allow you to perform any theor
 * Faint-Laser Single Photon Source
 
 ## Gate Sizes
-* [x] Macro - Built utilizing off-the-shelf optical components
+* [ ] Macro - Built utilizing off-the-shelf optical components
 * [ ] Micro - Discrete sized quantum logic gates
 * [ ] Nano - Chip scale components
 
