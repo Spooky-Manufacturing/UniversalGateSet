@@ -4,14 +4,17 @@ The Universal Gate Set is SpookyMFG's open-hardware universal quantum gate speci
 ## What is a universal gate set?
 A universal gate set is a set of logic gates that allow you to perform any theoretical quantum computation
 
-## Gates Included
+## Gates Implemented
+* Pauli-Z
+* Measurement (Single-photon detector)
+
+## Gates Planned
 * Pauli-X
 * Pauli-Y
 * Pauli-Z
 * Hadamard
 * Nonlinear-Sign Shift Gate
 * Controlled-X Gate
-* Measurement
 * Faint-Laser Single Photon Source
 
 ## Gate Sizes
